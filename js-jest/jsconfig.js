@@ -1,0 +1,7 @@
+{ 
+    "typeAction": {
+        "include": [
+            "jest"
+        ]
+    }
+}
